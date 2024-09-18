@@ -1,5 +1,5 @@
 # TalentoTech
-Prácticas del programa Talento Tech 2024 - 1
+Prácticas del programa Talento Tech 2024
 
 Grupo de la primera cohorte (básica) de Talento Tech - Bogotá
 
